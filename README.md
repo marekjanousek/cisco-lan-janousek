@@ -14,4 +14,3 @@ PC1 je nastaven staticky, PC2 dostává adresu z DHCP.
 ### Důkazy funkčnosti
 ![IP Config](ipconfig.png)
 ![Ping](ping.png)
-*(Poznámka: místo ipconfig.png napiš přesné názvy tvých obrázků, jak jsi je nahrál)*
