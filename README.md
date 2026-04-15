@@ -1,4 +1,4 @@
-# Projekt LAN - Janoušek
+# LAN - Janoušek
 
 ### Výpočet X
 Příjmení: JANOUSEK
