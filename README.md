@@ -10,7 +10,3 @@ Příjmení: JANOUSEK
 V simulátoru Cisco Packet Tracer jsem vytvořil LAN se dvěma switchi. 
 SRV1 slouží jako DHCP a DNS server, SRV2 jako Web server.
 PC1 je nastaven staticky, PC2 dostává adresu z DHCP.
-
-### Důkazy funkčnosti
-![IP Config](ipconfig.png)
-![Ping](ping.png)
