@@ -50,9 +50,9 @@ Správnost konfigurace byla ověřena následujícími kroky na PC1:
 4.  **Web Browser**: Úspěšné načtení stránky přes doménové jméno.
 
 ## 5. Dokumentace (Snímky obrazovky)
-- **SWITCH 1:** ![S1](S1.png)
-- **IPCONFIG PC1:** ![PC1 Config](IP_pc1.png)
-- **PING TEST:** ![Ping Test](PING.png)
-- **WEB:** ![Web Browser](HTTP.png)
-- **DNS:** ![DNS](DNS.png)
-- **IPCONFIG:** ![IPCONFIG](IPCONFIG.png)
+- **SWITCH 1:** ![S1](.img/S1.png)
+- **IPCONFIG PC1:** ![PC1 Config](.img/IP_pc1.png)
+- **PING TEST:** ![Ping Test](.img/PING.png)
+- **WEB:** ![Web Browser](.img/HTTP.png)
+- **DNS:** ![DNS](.img/DNS.png)
+- **IPCONFIG:** ![IPCONFIG](.img/IPCONFIG.png)
