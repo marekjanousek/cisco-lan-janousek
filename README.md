@@ -50,9 +50,9 @@ Správnost konfigurace byla ověřena následujícími kroky na PC1:
 4.  **Web Browser**: Úspěšné načtení stránky přes doménové jméno.
 
 ## 5. Dokumentace (Snímky obrazovky)
-- **Konzolové nastavení switchů:** ![Laptop Terminal](S1.png)
-- **Výpis ipconfig na PC1:** ![PC1 Config](IP_pc1.png)
-- **Ping testy:** ![Ping Test](PING.png)
-- **Zobrazení webové stránky:** ![Web Browser](HTTP.png)
+- **SWITCH 1:** ![S1](S1.png)
+- **IPCONFIG PC1:** ![PC1 Config](IP_pc1.png)
+- **PING TEST:** ![Ping Test](PING.png)
+- **WEB:** ![Web Browser](HTTP.png)
 - **DNS:** ![DNS](DNS.png)
-- **DNS:** ![IPCONFIG](IPCONFIG.png)
+- **IPCONFIG:** ![IPCONFIG](IPCONFIG.png)
