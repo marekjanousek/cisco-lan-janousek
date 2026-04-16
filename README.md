@@ -1,4 +1,4 @@
-# Projekt LAN: Návrh a konfigurace firemní sítě v simulátoru Cisco Packet Tracer
+# LAN.pkt
 
 Tento repozitář obsahuje kompletní model lokální sítě (LAN) vytvořený v simulátoru Cisco Packet Tracer. Cílem projektu je demonstrovat propojení switchů, správu síťových služeb a implementaci adresního plánu na základě specifického výpočtu.
 
