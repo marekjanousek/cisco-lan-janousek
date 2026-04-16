@@ -55,3 +55,4 @@ Správnost konfigurace byla ověřena následujícími kroky na PC1:
 - **Ping testy:** ![Ping Test](img/PING.png)
 - **Zobrazení webové stránky:** ![Web Browser](img/HTTP.png)
 - **DNS:** ![DNS](img/DNS.png)
+- ![Náhled webu](HTTP.png)
